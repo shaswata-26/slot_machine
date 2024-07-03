@@ -1,0 +1,23 @@
+.head{
+  height: 100px;
+  width: 100%;
+  border: 1px solid green;
+  background-color: blue;
+  text-align: center;
+  display: block;
+  offset-distance: 2rem;
+}
+
+.inn{
+  text-align: center;
+
+  height: 250px;
+  width: 250px;
+  border: 1px solid black;
+  align-items: center;
+  margin: 50px;
+  background-color: bisque;
+  border-color: blue;
+ border-radius: 20px;
+ justify-content: center;
+}
